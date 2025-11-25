@@ -1,25 +1,25 @@
 # TÍTULO DO PROJETO
 
-`CAMPUS/UNIDADE`
+`CAMPUS LOURDES`
 
-`CURSO`
+`ENGENHARIA DA COMPUTAÇÃO`
 
-`SEMESTRE`
+`1º SEMESTRE`
 
-`DISCIPLINA`
+`Laboratório de Introdução à Engenharia de Computação`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
+* João Lucas Cerezo Siveira
+* Laura Martins de Souza
+* Fernando de Lima Gonçalves
 * Nome completo do aluno 4
 * Nome completo do aluno 5
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Augusto Lara Soares
 
 ## Resumo
 
