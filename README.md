@@ -14,8 +14,7 @@
 * João Lucas Cerezo Siveira
 * Laura Martins de Souza
 * Fernando de Lima Gonçalves
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Carla Beatriz Alvez Costa
 
 ## Orientador
 
