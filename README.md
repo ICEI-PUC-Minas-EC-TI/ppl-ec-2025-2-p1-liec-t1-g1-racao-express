@@ -26,7 +26,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 # Código (do arduino ou esp32)
 
-<li><a href="Codigo/README.md"> Código Fonte (.ino)</a></li>
+<li><a href="Racao_Express_PLUS_BT.ino"> Código Fonte (.ino)</a></li>
 
 # Aplicativo para Smartphone
 
