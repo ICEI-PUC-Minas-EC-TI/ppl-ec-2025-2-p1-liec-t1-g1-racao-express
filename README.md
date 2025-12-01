@@ -1,6 +1,6 @@
 # RAÇÃO EXPRESS
 
-`CAMPUS LOURDES`
+`Pontifícia Universidade Católica de Minas Gerais/Unidade Lourdes`
 
 `ENGENHARIA DA COMPUTAÇÃO`
 
