@@ -1,3 +1,5 @@
 # Apresentação da Solução
-
-Use esta pasta para salvar o vídeo demonstrando o funcionamento do projeto e as fotos para documentação do mesmo.
+![Foto 1](../Apresentacao/foto1.jpg)
+![Foto 2](../imagens/foto2.jpg)
+![Foto 3](../imagens/foto3.jpg)
+![Foto 4](../imagens/foto4.jpg)
