@@ -1,3 +1,3 @@
 # Código do App
 
-Mantenha neste diretório todo o código do Aplicativo. Para isso, salve aqui os arquivos .aia e o APK, ambos gerados pelo App Inventor.
+Clique [aqui](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2025-2-p1-liec-t1-g1-racao-express/tree/main/App) para ver os arquivos .aia e .apk
