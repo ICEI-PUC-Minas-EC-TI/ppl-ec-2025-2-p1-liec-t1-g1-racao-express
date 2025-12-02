@@ -1,17 +1,14 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
-
+Este projeto apresenta um comedouro automático para os tutores de animais de estimação que buscam soluções tecnológicas acessíveis. O problema abordado é buscar maior facilidade para alimentar os pets diariamente, tornando se uma tarefa mais fácil.Para resolver isso, nós desenvolvemos um comedouro com ESP32 que junta detecção automática por sensor de movimento,e além disso, via aplicativo no celular feito pelo app inventor.
 ## Problema
 
-Nesse momento você deve apresentar o problema que o seu projeto deve  resolver. Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. 
-
-## Objetivos
-
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um projeto para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+O projeto busca ajudar a resolver certa falta de comodidade ao alimentar o animal de estimação durante o dia a dia
+# Objetivos
+Desenvolver um comedouro automático de baixo custo utilizando ESP32 que combine:
+Detecção automática: sensor de presença dispara liberação de ração quando o animal se aproxima.
+Controle a distancia: via aplicativo (App Inventor) permite dispensação manual via celular android.
+Acessibilidade: utiliza componentes de baixo custo e código aberto, viabilizando replicação educacional e comercial
  
 ## Público-Alvo
-
-Descreva quem serão as pessoas que usarão o projeto. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, etc.
+Tutores de animais de estimação que buscam soluções tecnológicas acessíveis para facilitar o dia a dia com seus pets.
