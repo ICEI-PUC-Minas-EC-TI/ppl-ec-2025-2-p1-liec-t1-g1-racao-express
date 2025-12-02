@@ -21,8 +21,7 @@
 * Felipe Augusto Lara Soares
 
 ## Resumo
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este Projeto educacional apresenta o desenvolvimento de um comedouro automático para animais de estimação utilizando tecnologia acessível. O projeto utiliza o microcontrolador ESP32. O comedouro funciona de duas formas: quando um sensor detecta a presença do animal perto do comedouro, o sistema automaticamente libera a ração; além disso, o tutor pode usar um aplicativo no celular, desenvolvido com App Inventor, para dispensar alimento manualmente quando quiser.
 
 # Código (do arduino ou esp32)
 
