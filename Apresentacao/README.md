@@ -1,6 +1,6 @@
 # Apresentação da Solução
 # Video
-Aqui esta ó [Video de demonstração](https://youtube.com/shorts/KxddrZ3EgWk)
+Aqui esta O [Video de demonstração](https://youtube.com/shorts/KxddrZ3EgWk)
 # Fotos
 <img src="../Apresentacao/foto1.jpg" width="600" height="400" alt="Foto 1">
 
