@@ -1,4 +1,4 @@
 
 ## Instruções de utilização
 
-Assim que a primeira versão do projeto estiver disponível, deverá complementar com as instruções de utilização. Descreva como configurar o hardware/software e informações importantes para executar o projeto.
+Para a utilização do projeto é necessario ligar o esp 32, e utilizando do sensor de presença atravez de algum tipo de movimento na frente do sensor, ou pelo aplicativo atravez de conexão bluetooth para liberar manualmente.
