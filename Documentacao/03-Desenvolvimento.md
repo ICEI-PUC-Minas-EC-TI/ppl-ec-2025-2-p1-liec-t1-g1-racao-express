@@ -1,7 +1,7 @@
 # Desenvolvimento do aplicativo:
-	O aplicativo utilizado no projeto foi desenvolvido na plataforma do MIT App Inventor.
+O aplicativo utilizado no projeto foi desenvolvido na plataforma do MIT App Inventor.
 Sua concepção foi baseada em usabilidade e praticidade, consistindo em layout simples de apenas uma tela, com organizadores  para melhor acomodar os botões responsáveis por comandar o atuador no sistema por conexão Bluetooth clássico.
-	O código consiste em “objetos” visíveis como os botões e não visível como a conexão Bluetooth.
+O código consiste em “objetos” visíveis como os botões e não visível como a conexão Bluetooth.
 Quando o usuários clicar em “Conectar-se ao comedouro”, ira deparar com todas as conexões disponíveis para conexão. Assim que pareado com o RacaoExpress, o usuário terá pleno controle para abrir e fechar a porta para despejar a ração.
 
 # Desenvolvimento do Hardware:
